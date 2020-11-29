@@ -1,6 +1,8 @@
 package main
 import (
 	_ "github.com/jackc/pgx/v4/stdlib"
+	"github.com/ehsontjk/gosql/pkg/customers"
+	"github.com/ehsontjk/gosql/cmd/server/app"
 	"database/sql"
 	"net"
 	"net/http"

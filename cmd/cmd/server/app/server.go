@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"strconv"
 	"log"
-	"github.com/ehsontjk/http/pkg/customers"
+	"github.com/ehsontjk/gosql/pkg/customers"
 	"net/http"
 )
 
