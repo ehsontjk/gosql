@@ -1,4 +1,4 @@
-package banners
+package customers
 
 import (
 	"strconv"
